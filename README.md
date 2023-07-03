@@ -67,10 +67,6 @@ See [Dracula organization](https://github.com/dracula) for all of our repositori
 - Sublime Text theme built on top of [Monokai](http://tmtheme-editor.herokuapp.com/#/Monokai-sublime) using [@aziz's tmtheme editor](http://tmtheme-editor.herokuapp.com/)
 - ZSH theme built on top of [@robbyrussell's theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme)
 
-## Changelog
-
-The changelog is available on the release page in each theme's repository.
-
 ## License
 
 [MIT License](./LICENSE) © Dracula Theme
